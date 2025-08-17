@@ -1,0 +1,10 @@
+{
+  "RecoilPx": 1,
+  "JitterStrength": 1,
+  "Curve": "sCurve",
+  "RampTimeMs": 340,
+  "LedTheme": "classic",
+  "OverlayOpacity": 90,
+  "StartHidden": false,
+  "LmbGated": true
+}
