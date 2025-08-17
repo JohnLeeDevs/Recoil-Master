@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnleedevs&label=Profile%20views&color=0e75b6&style=flat" alt="johnleedevs" /> </p>
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/JohnLeeDevs/Recoil-Master?style=flat">
 <img alt="Static Badge" src="https://img.shields.io/badge/Version-v1.0.0-blue">
+<img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/JohnLeeDevs/Recoil-Master/total">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
