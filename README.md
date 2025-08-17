@@ -2,6 +2,7 @@
 <h3 align="center">Yeah I make stuff...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnleedevs&label=Profile%20views&color=0e75b6&style=flat" alt="johnleedevs" /> </p>
+![GitHub Repo stars](https://img.shields.io/github/stars/JohnLeeDevs/Recoil-Master?style=flat)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
